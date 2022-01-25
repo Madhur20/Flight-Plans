@@ -1,0 +1,12 @@
+city1  city2   10
+city1  city3   15
+city2  city1   5
+city2  city3   6 
+city2  city4   22
+city2  city5   1
+city3  city4   9
+city3  city5   16
+city4  city1   4
+city4  city2   8
+city5  city2   1
+city5  city3   13
